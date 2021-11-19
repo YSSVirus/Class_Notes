@@ -1,1 +1,0 @@
-[CompTIA A+ Certification Practice Test Questions (examcompass.com)](https://www.examcompass.com/comptia/a-plus-certification/free-a-plus-practice-tests)
