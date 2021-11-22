@@ -17,6 +17,7 @@ Instructions(1) if you see "open folder as vault" and "create new vault":
 6. Open folder as vault
 7. Navigate to the directory where you can see Class_Notes
 8. Click the Class_Notes folder select it with the select folder button
+9. Once the file is loaded, click on preview button in the upper right hand corner. This will turn on typographical emphasis like bold and italics.
 
 Instructions(2) if you see a blank new notepad:
 -------------------------------
@@ -24,6 +25,5 @@ Instructions(2) if you see a blank new notepad:
 7. Open folder as vault
 8. Navigate to the directory where you can see Class_Notes
 9. Click the Class_Notes folder select it with the select folder button
-
-
 10. Once the file is loaded, click on preview button in the upper right hand corner. This will turn on typographical emphasis like bold and italics.
+
