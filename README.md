@@ -24,3 +24,6 @@ Instructions(2) if you see a blank new notepad:
 7. Open folder as vault
 8. Navigate to the directory where you can see Class_Notes
 9. Click the Class_Notes folder select it with the select folder button
+
+
+10. Once the file is loaded, click on preview button in the upper right hand corner. This will turn on typographical emphasis like bold and italics.
